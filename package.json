@@ -18,7 +18,7 @@
         "classnames": "^2.2.5",
         "prop-types": "^15.5.10",
         "react": "^15.6.1",
-        "react-dom": "^15.6.1",
+        "react-dom": "^16.0.0",
         "react-svg": "^2.1.21",
         "react-tabs": "^2.0.0",
         "react-rnd": "^7.0.0",
