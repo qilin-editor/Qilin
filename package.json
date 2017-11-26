@@ -82,7 +82,7 @@
         "sass-loader": "^6.0.5",
         "style-loader": "^0.19.0",
         "stylelint": "^8.2.0",
-        "stylelint-config-standard": "^17.0.0",
+        "stylelint-config-standard": "^18.0.0",
         "uglifyjs-webpack-plugin": "beta",
         "url-loader": "^0.6.1",
         "webpack": "^3.8.1",
