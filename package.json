@@ -77,7 +77,7 @@
         "nw-builder": "^3.5.1",
         "nw-dev": "^3.0.1",
         "postcss-loader": "^2.0.8",
-        "precss": "^2.0.0",
+        "precss": "^3.0.0",
         "resolve-url-loader": "^2.1.1",
         "sass-loader": "^6.0.5",
         "style-loader": "^0.19.0",
