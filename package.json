@@ -36,7 +36,7 @@
         "markdown-it-sup": "^1.0.0",
         "markdown-it-table-of-contents": "^0.3.2",
         "markdown-it-task-lists": "^2.0.1",
-        "mobx": "^3.3.1",
+        "mobx": "^4.1.1",
         "mobx-react": "^4.3.3",
         "opn": "^5.1.0",
         "prop-types": "^15.6.0",
